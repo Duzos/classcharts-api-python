@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/classcharts-api/__init__.py
+src/classcharts_api.egg-info/PKG-INFO
+src/classcharts_api.egg-info/SOURCES.txt
+src/classcharts_api.egg-info/dependency_links.txt
+src/classcharts_api.egg-info/top_level.txt
