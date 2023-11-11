@@ -1,4 +1,6 @@
-# Classcharts API
+# ClassCharts API
+
+## [View on PIP](https://pypi.org/project/classcharts/)
 
 ## Dependencies
 
